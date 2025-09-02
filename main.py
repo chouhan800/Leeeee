@@ -316,7 +316,7 @@ async def start(bot: Client, m: Message):
                     photo=photologo,
                     caption="**🔒 Access Required**\n\nContact admin to get access.",
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("💫 Get Access", url="https://t.me/ItsUGBot")]
+                        [InlineKeyboardButton("💫 Get Access🦅", url="tg://openmessage?user_id=8050673236")]
                     ])
                 )
                 return

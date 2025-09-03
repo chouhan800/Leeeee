@@ -6,7 +6,7 @@ API_ID = int(os.environ.get("API_ID", "29731917"))
 API_HASH = os.environ.get("API_HASH", "d0b73a75f2d12cae5b04c21044ff0148 ")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8177375099:AAGuSTB57d3hyfCJ1wTe_FC_JEPNnXCDHGg")
 
-CREDIT = os.environ.get("CREDIT", "꧁༒☬🦋✨⚔️MR. 𝐂𝐡𝐨𝐮𝐡𝐚𝐧⚔️✨🦋☬༒꧂ ")
+CREDIT = os.environ.get("CREDIT",'[꧁༒☬🦋✨⚔️MR.𝐂𝐡𝐨𝐮𝐡𝐚𝐧⚔️✨🦋☬༒꧂](tg://openmessage?user_id=8050673236)')
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "sample_mflix")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://sindhavravi11:%24Sind1234567890@cluster0.bwlgbx3.mongodb.net/sample_mflix?retryWrites=true&w=majority&appName=Cluster0")
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 

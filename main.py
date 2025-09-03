@@ -74,7 +74,7 @@ client = SecureAPIClient()
 apis = client.get_apis()
 
 # Global variables
-watermark = "chouhan"  # Default value
+watermark = "MR.chouhan"  # Default value
 count = 0
 userbot = None
 timeout_duration = 300  # 5 minutes
@@ -1058,7 +1058,7 @@ async def txt_handler(bot: Client, m: Message):
         f"├ 🖼️ ɪᴍᴀɢᴇꜱ : <code>{img_count}</code>\n"
         "╰────────────────────────────\n\n"
         
-        "<i>ᴇxᴛʀᴀᴄᴛᴇᴅ ʙʏ ᴜɢ ʙᴏᴛꜱ ⚙️</i>"
+        "<i>ᴇxᴛʀᴀᴄᴛᴇᴅ ʙʏ mr.chouhan ʙᴏᴛꜱ ⚙️</i>"
     )
 )
 
